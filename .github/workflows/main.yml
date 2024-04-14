@@ -13,7 +13,7 @@ jobs:
 
           user: groutoutlook
           template: classic
-          base: header, activity, community, repositories #, metadata
+          # base: header, activity, community, repositories #, metadata
           config_animations: yes
           config_timezone: Asia/Bangkok
-          plugin_traffic: yes
+          # plugin_traffic: yes
