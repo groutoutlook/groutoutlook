@@ -16,7 +16,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories #, metadata
           config_animations: yes
-          config_timezone: Asia/China
+          config_timezone: Asia/Bangkok
           optimize: no
           #repositories_forks: yes
           use_prebuilt_image: yes
