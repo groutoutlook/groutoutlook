@@ -36,7 +36,6 @@ jobs:
           #plugin_notable_filter: stars:>100
           #plugin_notable_repositories: yes
           plugin_repositories: yes
-          plugin_repositories_featured: nixos/nixpkgs, SuperSandro2000/nixos-modules
           #plugin_topics: yes
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 20
